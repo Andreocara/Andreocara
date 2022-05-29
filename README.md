@@ -2,7 +2,7 @@
 - 👋 Olá meu nome é @Andreocara
 - 👀 Tenho interese em aprender programação...
 - 🌱 E estou aprendendo a linguagem java script ...
-- 📫 Moro ddd (43) Brazil
+- 📫 Moro DDD (43) Brazil
 
 <!---
 Andreocara/Andreocara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
